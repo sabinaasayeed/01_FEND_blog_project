@@ -19,12 +19,12 @@ For specific, detailed instructions, look at the project instructions in the Uda
 ### Architecture 
 This project have the following file structure:
 - css
- blog-post.css
- color.css
- common_body.css
- footer.css
- header.css
- index.css
+ --blog-post.css
+ --color.css
+ --common_body.css
+ --footer.css
+ --header.css
+ --index.css
 - images 
 - index.html
 - blog-post.html
