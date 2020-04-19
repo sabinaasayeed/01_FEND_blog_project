@@ -46,7 +46,7 @@ I used the following skills I learned from this course so far:
 - Media Query
 
 ### To view project
-The project is published on GitHub Pages. To view, click on this link: [link to project](https://github.com/sabinaasayeed/landing_page_project)
+The project is published on GitHub Pages. To view, click on this link: [link to project](https://github.com/sabinaasayeed/01_FEND_blog_project)
 
 ### How to run 
 To launch this website, simply clone the repo and open the `index.html` file in the browser. 
